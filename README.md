@@ -1,4 +1,6 @@
-# Dự Án Data-Flight
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofGJopfMz1YUnvfOBr5FaOgauM98gT5N" crossorigin="anonymous">
+
+# Dự Án Data-Flight ✈️✈️✈️
 
 ## Giới Thiệu
 Chào mừng bạn đến với Dự Án Data-Flight! Dự án này tập trung vào thu thập dữ liệu về các chuyến bay từ Sài Gòn đến Hà Nội và sử dụng các mô hình máy học để dự đoán giá của các chuyến bay.
@@ -28,7 +30,30 @@ Chúng tôi đã phát triển các mô hình máy học như Random Forest, Lin
    ```bash
    git clone https://github.com/your-username/data-flight.git
    cd data-flight
+## Người đóng góp
+Cảm ơn những thành viên sau đã đóng góp cho dự án 🌹🎉: 
+
+[![Contributors](https://img.shields.io/github/contributors/chuongprg-it/data-flight?style=for-the-badge)](https://github.com/chuongprg-it/data-flight/graphs/contributors)
+
+[//]:#[![Avatar](https://github.com/chuongprg-it.png?size=100)](https://github.com/chuongprg-it)
+[//]:#[![Avatar](https://github.com/chuongprg.png?size=100)](https://github.com/chuongprg)
+
+[<img src="https://github.com/chuongprg-it.png?size=100" width="100" height="100" >](https://github.com/chuongprg-it)
+[<img src="https://github.com/chuongprg.png?size=100" width="100" height="100" >](https://github.com/chuongprg)
+
+
+
+
+
+
 ## Liên hệ
-Email: ***vct.ai4u@gmail.com***
-Linkedin: ***https://www.linkedin.com/in/vo-chi-truong-362312280/***
-Facebook: ***https://www.facebook.com/Chuong.IT02***
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vct.ai4u@gmail.com)
+Email: *vct.ai4u@gmail.com*
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/vo-chi-truong-362312280/)) Linkedin: *https://www.linkedin.com/in/vo-chi-truong-362312280/*
+
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/your-username/](https://www.facebook.com/Chuong.IT02)) Facebook: *https://www.facebook.com/Chuong.IT02*
+## 📝License
+Copyright © 2019 [Võ Chí Trường](https://github.com/chuongprg-it)
+
+Cảm ơn đã ghé thăm !!! 💖
