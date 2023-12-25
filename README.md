@@ -54,6 +54,6 @@ Email: *vct.ai4u@gmail.com*
 
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/your-username/](https://www.facebook.com/Chuong.IT02)) Facebook: *https://www.facebook.com/Chuong.IT02*
 ## 📝License
-Copyright © 2019 [Võ Chí Trường](https://github.com/chuongprg-it)
+Copyright © 2023 [Võ Chí Trường](https://github.com/chuongprg-it)
 
 Cảm ơn đã ghé thăm !!! 💖
